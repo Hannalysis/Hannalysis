@@ -1,4 +1,4 @@
-![Header](./github-header-image_main.png)
+![Header](./github-header-alt-smooth.png)
 
 - 👋 Hey, I’m Hannahry aka @Hannalysis 😊
 - 🎧 I’m interested in Audio 
