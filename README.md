@@ -1,8 +1,8 @@
 ![Header](./github-header-alt-smooth.png)
 
-- 👋 Hey, I’m Hannahry aka @Hannalysis
+- 👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫
 - 🎧 I’m interested in Audio 
-- 🌱 I’m currently learning Front-End Design techniques & Data Analysis toolkits
+- 🌱 I’m currently learning 🎨 Front-End Design techniques & 📈 Data Analysis toolkits
 - 🎮🎼 and I love Video Game Music ♥️
 <!---
 Hannalysis/Hannalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
