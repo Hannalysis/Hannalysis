@@ -1,8 +1,8 @@
 ![Header](./updated-full-capture.PNG)
 
-- 👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫
-- 🎧 I’m interested in Audio, and I love Video Game Music 🎮🎼
-- 🌱 I’m currently learning 🛠️🧮 Data Engineering & Analysis toolkits, and Front-End design 🎨
+👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫 <br/>
+🎧 I’m interested in Audio, and I love Video Game Music 🎮🎼 <br/>
+🌱 I’m currently learning 🛠️🧮 Data Engineering & Analysis toolkits, and Front-End design 🎨 <br/>
 
 <!---
 Hannalysis/Hannalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
