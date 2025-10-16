@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,css,html,flask,postgres,vscode,ts,tailwind,react,nextjs,express,vitest,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,css,html,postgres,nextjs,tailwind,vscode,flask,react,express,cs,unity,azure,vitest,figma,visualstudio&perline=9" />
   </a>
 </p>
 
