@@ -1,4 +1,4 @@
-![Header](./updated-full-capture.PNG)
+![Header](./another-updated-full-capture.png)
 
 👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫 <br/>
 🎧 I’m interested in Audio, and I love Video Game Music 🎮🎼 <br/>
