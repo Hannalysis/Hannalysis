@@ -3,7 +3,7 @@
 👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫 <br/>
 🎧 I’m interested in Audio, and I love Video Game Music 🎮🎼 <br/>
 🌱 I’m currently learning:  
-🛠️🧮 Data Engineering & Analysis | 📱🎨 Front-End design | 🛠️💻 Unity <br/>
+📱🎨 Front-End design | 🛠️🧮 Data Engineering & Analysis | 🛠️💻 Unity <br/>
 
 <!---
 Hannalysis/Hannalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
