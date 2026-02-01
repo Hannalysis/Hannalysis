@@ -1,9 +1,10 @@
 ![Header](./another-updated-full-capture.png)
 
 👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫 <br/>
-🎧 I’m interested in Audio, and I love Video Game Music 🎮🎼 <br/>
+🎧 I’m an audiophile, and I love video game music 🎮🎼 <br/>
+
 🌱 I’m currently learning:  
-📱🎨 Front-End design | 🛠️🧮 Data Engineering & Analysis | 🛠️💻 Unity <br/>
+📱🎨 Front-End design | 🛠️🧮 Data Engineering 
 
 <!---
 Hannalysis/Hannalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
