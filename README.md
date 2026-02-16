@@ -4,7 +4,7 @@
 🎧 I’m an audiophile, and I love video game music 🎮🎼 <br/>
 
 🌱 I’m currently learning:  
-📱🎨 Front-End design | 🛠️🧮 Data Engineering 
+📱🎨 Front-End design & implementation | 🛠️🧮 Data Engineering 
 
 <!---
 Hannalysis/Hannalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
