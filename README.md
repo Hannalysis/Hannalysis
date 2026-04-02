@@ -1,4 +1,4 @@
-![Header](./another-updated-full-capture.png)
+![Header](./github-banner.png)
 
 👋 Hey, I’m Hannahry aka @Hannalysis 👩‍💻💫 <br/>
 🎧 I’m an audiophile, and I love video game music 🎮🎼 <br/>
